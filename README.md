@@ -40,5 +40,5 @@ For example, for a machine with IP `52.0.228.95` and a username of `ubuntu`:
 
 * [Ansible Documentation](http://docs.ansible.com/)
 * [nginx Documentation](http://nginx.org/en/docs/)
-* [Amazon Web Services Free Tier](http://aws.amazon.com/free/) - one way to
-  test your work (other ways are totally fine)
+* [Google Cloud Platform Free Tier](https://cloud.google.com/free/) - one way to test your work (other ways are totally fine). Note that Plotly uses GCP for most of our hosting.
+* [Amazon Web Services Free Tier](http://aws.amazon.com/free/) - another way to test.
