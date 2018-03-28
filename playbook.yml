@@ -1,6 +1,0 @@
-- hosts: all
-  remote_user: '{{ user }}'
-  sudo: True
-
-  tasks:
-    - include: tasks/nginx.yml
